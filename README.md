@@ -9,7 +9,7 @@ The accordion component allows the user to show and hide sections of related con
 
 
 ## 🔗 link
-📟 
+🖇️  https://angular-accordion-component.netlify.app/
 
 
 ## Stack used
