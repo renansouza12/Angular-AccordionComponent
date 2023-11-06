@@ -24,12 +24,12 @@ The accordion component allows the user to show and hide sections of related con
 Clone the project :
 
 ```
-git clone ...
+git clone https://github.com/renansouza12/Angular-AccordionComponent.git
 
 ```
 Enter the project folder and open it:
 ```
-cd ...
+cd Angular-AccordionComponent
 
 code .
 ```
