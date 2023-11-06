@@ -1,27 +1,43 @@
-# Accordion
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
+# Accordion Component 📄
+A challenger from <a href="https://www.frontendpro.dev/frontend-coding-challenges/accordion-component-WgPLB3f5dCRSIda2s77V">FrondendPro</a>, about an accordion component.
+The accordion component allows the user to show and hide sections of related content on a page.
 
-## Development server
+## Screenshots
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![App Screenshot](./src/assets/screenshot%20.png)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🔗 link
+📟 
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Stack used
 
-## Running unit tests
+**Front-end:** [![My Skills](https://skillicons.dev/icons?i=angular,scss,typescript)](https://skillicons.dev)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## How run the project
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Clone the project :
+
+```
+git clone ...
+
+```
+Enter the project folder and open it:
+```
+cd ...
+
+code .
+```
+Type ```npm install``` to install node packages and ```ng serve ``` to run a localhost server.
+
+
+
+
+
+
+

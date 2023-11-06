@@ -1,0 +1,18 @@
+@media only screen and (max-width: 768px) {
+    .frame {
+        padding: 2rem;
+        height: 100%;
+        border-radius: 0;
+        box-shadow: none;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .frame {
+        padding: 1.5rem;
+    }
+    main {
+        gap: 1rem;
+        height: 100%;
+    }
+}

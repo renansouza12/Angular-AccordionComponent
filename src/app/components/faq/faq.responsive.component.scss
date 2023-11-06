@@ -1,0 +1,15 @@
+@media screen and (max-width:426px){
+    .faq_card{
+        width: 20rem;
+    }
+}
+@media screen and (max-width:375px){
+    .faq_card{
+        width: 15rem;
+        .faq_card_question{
+            p{
+                text-align: center;
+            }
+        }
+    }
+}

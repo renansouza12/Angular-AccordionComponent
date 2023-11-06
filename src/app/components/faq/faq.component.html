@@ -1,0 +1,7 @@
+<div class="faq_card" [ngClass]="faqCardColor">
+    <div class="faq_card_question">
+        <p [ngClass]="bold" >{{faqQuestion}}</p><i class="ph ph-plus" (click)="displayFaqAnswer()" [ngClass]="icon"></i>
+    </div>
+
+    <app-faq-answer *ngIf="showFaqAnswer" [faqAnswer]="faqAnswer" />
+</div>
